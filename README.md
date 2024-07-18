@@ -26,7 +26,7 @@ Ferramentas utilizadas nas análises:
 </li>
 
 ### Arquivos: 
-  * Na pasta banvic contém as tabelas do ERP em .csv
+  * Na pasta banvic_data contém as tabelas do ERP em .csv
   * Dashboard do banco (dashboard_banvic.pbix)
   * Arquivo python (Relatório_BanVic.ipynb)
 
